@@ -2,12 +2,12 @@
 body{margin: 0;
 text-align: center;}
 
-h1 {margin: 0 auto 0 auto;
-  width: 20%;}
+h1 {margin: 0;}
+
 
 font-family:sacramento, cursive;}
 
-p {margin: 0;
+p {margin: 0;}
 font-family: merriweather, serif;}
 
 .topcontainer {background-color: #E4F9F5;
@@ -26,14 +26,14 @@ top::150px;}
 h2 {font-family:montserrat, sans-serif;}
 h3 {font-family:montserrat, sans-serif;}
 
-.web {
+.web {padding-top: 10px;
 heigh: 30%;
 width:30%;}
 
-.vikichao{
+.vikichao{padding-top: 10px;
 height: 30%;
 width: 30%;}
 
-.meta{
+.meta{ padding-top: 10px;
 height: 30%;
 width: 30%;}
