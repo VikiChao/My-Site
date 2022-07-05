@@ -1,6 +1,6 @@
 
-body{margin: auto;
-width: 50%;
+body{margin: 0;
+
 color: #40514E;
 text-align: center;}
 
@@ -18,7 +18,8 @@ position: relative;
 padding-top: 70px;
 }
 
-.middle-container {margin: 100px auto auto auto;}
+.middle-container {margin: 100px auto auto auto;
+width: 60%;}
 
 .top-cloud { position: absolute;
 right: 300px;
@@ -60,6 +61,7 @@ span {text-decoration: underline;
 
 .bottom-container{background-color: #66BFBF;
 margin: 100px auto auto auto;
+  width: 60%;
 padding: 30px;}
 
 .copyright{ color:#EAF6F6;}
