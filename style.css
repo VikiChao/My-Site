@@ -1,0 +1,84 @@
+
+body{margin: 0;
+color: #40514E;
+text-align: center;}
+
+h1 {margin: 50px auto 0 auto;
+font-family:sacramento, cursive;
+font-size: 5.625rem;
+color: #66BFBF;}
+
+p {margin: 0;
+font-family: merriweather, serif;
+line-height: 2;}
+
+.topcontainer {background-color: #E4F9F5;
+position: relative;
+padding-top: 70px;
+}
+
+.middle-container {margin: 100px auto auto auto;}
+
+.top-cloud { position: absolute;
+right: 300px;
+top: 50px;}
+.bottom-cloud { position: absolute;
+left: 300px;
+bottom:300px;}
+
+h2 {font-family:montserrat, sans-serif;
+font-size: 2.5rem;
+color: #66BFBF;
+font-weight: normal;
+padding-bottom: 10px;}
+h3 {font-family:montserrat, sans-serif;
+color:#11999E}
+
+.web {
+width:30%;
+float: left;
+margin-right: 30px;}
+
+.vikichao{padding: 50px;
+height: 30%;
+width: 30%;
+border-radius: 70%;
+background-color: EAF6F6;}
+
+.meta{
+width: 30%;
+border-radius: 70%;
+background-color:#EAF6F6;
+float: right;
+margin-left: 30px;}
+a {color: #11999E;}
+
+span {text-decoration: underline;
+}
+.skill-row {text-align: left;}
+
+.bottom-container{background-color: #66BFBF;
+margin: 100px auto auto auto;
+padding: 30px;}
+
+.copyright{ color:#EAF6F6;}
+
+.btn {background-color: #11999E;
+padding: 7px;
+color: #EAF6F6;
+text-decoration: none;
+position: relative;
+top: 70px;
+border-radius: 8px;}
+
+
+.footer-link { text-decoration: none;
+margin: 10px;}
+hr {width: 20%;
+border-color: #EAF6F6;
+border-width: 7px;
+border-style: none;
+border-top-style: dotted;}
+
+.intro { width: 30%;
+margin: auto;}
