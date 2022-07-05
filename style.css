@@ -16,6 +16,7 @@ line-height: 2;}
 .topcontainer {background-color: #E4F9F5;
 position: relative;
 padding-top: 70px;
+  width: 100%;
 }
 
 .middle-container {margin: 100px auto auto auto;
@@ -61,7 +62,7 @@ span {text-decoration: underline;
 
 .bottom-container{background-color: #66BFBF;
 margin: 100px auto auto auto;
-  width: 60%;
+
 padding: 30px;}
 
 .copyright{ color:#EAF6F6;}
