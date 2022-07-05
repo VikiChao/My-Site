@@ -17,11 +17,11 @@ padding-top: 100px;}
 
 
 .top-cloud { position: absolute;
-left: 300px;
-top: 30px;}
+left: 200px;
+top: 150px;}
 .bottom-cloud { position: absolute;
-right: 300px;
-top::150px;}
+right: 200px;
+top::30px;}
 
 h2 {font-family:montserrat, sans-serif;}
 h3 {font-family:montserrat, sans-serif;}
